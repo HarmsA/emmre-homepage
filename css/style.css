@@ -1,0 +1,115 @@
+*{
+    /*border: 1px solid red;*/
+}
+body {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0;
+}
+/* Nav bar*/
+.lt a {
+    text-decoration: none;
+}
+
+#emmreLogo {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+    margin: 0;
+}
+.rt {
+    padding-left: 25px;
+    margin: 0;
+}
+.lt {
+    display: flex;
+    align-content: space-between;
+    flex-direction: row;
+    align-self: center;
+    justify-content: center;
+}
+.lt a {
+    padding:  2px 36px 0 0;
+    text-transform: uppercase;
+}
+.lt a:last-of-type {
+    width: 94px;
+    height: 30px;
+    border-radius: 17px;
+    background-color: #ff7878;
+    margin-right: 36px;
+    text-align: center;
+    padding: 4px 0 6px 0;
+    color: white;
+    font-size: 14px;
+}
+
+#headinglogo {
+    padding: 28px 0 24px 12px;
+    margin: 0;
+
+}
+/* Blue banner area */
+.phoneContainer {
+    position: relative;
+}
+.phoneContainer .phone {
+    /* Style for "iphone1" */
+    position: absolute;
+    left: 280px;
+    top: 33px;
+}
+.phoneContainer .phoneback {
+    /* Style for "iphone1" */
+    position: absolute;
+    left: 150px;
+    top: 55px;
+}
+.bluetext {
+    position: absolute;
+    left: 676px;
+    top: 178px;
+    width: 482px;
+}
+.bluetext h1 {
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    font-family: Montserrat, sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+.bluetext p {
+    color: #ffffff;
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    width: 471px;
+}
+#beta, #updates {
+    /*width: 234px;*/
+    height: 36px;
+    border-radius: 17px;
+    background-color: #6b3fb2;
+    padding: 10px 22px;
+    margin-right: 20px;
+    color: #ffffff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+#updates {
+    padding: 10px 25px;
+    background-color: #10bf31;
+}
+
+/* Communicate, Organize, and Prioritize */
+.threePhones h1 {
+    color: #1d1d1d;
+    font-family: "Montserrat", sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 120px;
+}
