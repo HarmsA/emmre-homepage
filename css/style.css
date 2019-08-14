@@ -9,6 +9,11 @@ body {
 /* Nav bar*/
 .lt a {
     text-decoration: none;
+    color: #1d1d1d;
+    font-family: Montserrat, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
 }
 
 #emmreLogo {
@@ -57,13 +62,13 @@ body {
 .phoneContainer .phone {
     /* Style for "iphone1" */
     position: absolute;
-    left: 280px;
+    left: 250px;
     top: 33px;
 }
 .phoneContainer .phoneback {
     /* Style for "iphone1" */
     position: absolute;
-    left: 150px;
+    left: 130px;
     top: 55px;
 }
 .bluetext {
@@ -113,3 +118,110 @@ body {
     text-align: center;
     padding-top: 120px;
 }
+.purplebanner {
+    padding-top: 110px;
+    position: absolute;
+}
+#phonelft {
+    position: relative;
+    top: 20px;
+    left: 250px;
+}
+#phonemdl{
+    position: relative;
+    top:20px;
+    left: 320px;
+}
+#phonert {
+    position: relative;
+    top: 20px;
+    left: 380px;
+}
+.reasonsContainer ul{
+    padding-left: 240px;
+
+}
+/* discription reasons under 3 phones */
+.reasonsContainer ul li {
+    vertical-align: top;
+    width: 275px;
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 70px;
+    /*float: left;*/
+    /*width: 1000px;*/
+    /*margin-left: 180px;*/
+}
+.moreDone, .peace, .fallsThrough {
+    padding-top: 50px;
+    text-align: center;
+
+}
+.peace, .moreDone {
+    padding-top: 65px;
+}
+.reasonsContainer h1{
+    text-align: center;
+    /*padding-left: 25px;*/
+    /*width: 225px;*/
+    color: #141414;
+    font-family: Montserrat, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+.reasonsContainer p {
+    margin-left: 10px;
+    /*width: 255px;*/
+    text-align: center;
+    color: #595959;
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+.bluebata {
+    text-align: center;
+    padding: 20px;
+}
+#betaBlue {
+    height: 36px;
+    border-radius: 17px;
+    background-color: #1a8dff;
+    padding: 10px 22px;
+    margin-right: 20px;
+    color: #ffffff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.desktopText {
+    /*height: 200px;*/
+
+}
+.desktopText h1{
+    margin-top: 150px;
+    text-align: center;
+    color: #141414;
+    font-family: Montserrat, sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+}
+.desktoptextContainer{
+    position: relative;
+    margin-left: 440px;
+    width: 555px;
+    /*align-content: space-between;*/
+    text-align: center;
+    color: #595959;
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+.desktop{
+    position: absolute;
+    left: -400px;
+    top: -50px;
+    z-index: -1;
+}
+
+
