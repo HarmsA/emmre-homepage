@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83065d08-09f3-446b-98d7-ff85e7df5167" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/image/bell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/blue_3_layer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/calendar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/messagebubble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/tag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/emmreHome.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,86 +24,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5882875">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="emmreHome.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/emmreHome.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="695">
-                  <caret line="108" selection-start-line="108" selection-end-line="108" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1280">
-                  <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="style1.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/css/style1.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="57">
-                  <caret line="347" column="24" selection-start-line="347" selection-start-column="24" selection-end-line="347" selection-end-column="24" />
-                  <caret line="350" column="21" selection-start-line="350" selection-start-column="21" selection-end-line="350" selection-end-column="21" />
-                  <caret line="313" column="25" selection-start-line="313" selection-start-column="25" selection-end-line="313" selection-end-column="25" />
-                  <caret line="309" column="23" selection-start-line="309" selection-start-column="23" selection-end-line="309" selection-end-column="23" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="445">
-                  <caret line="199" column="1" selection-start-line="199" selection-start-column="1" selection-end-line="199" selection-end-column="1" />
-                  <folding>
-                    <element signature="e#5#51#0" />
-                    <element signature="e#168#246#0" />
-                    <element signature="e#329#463#0" />
-                    <element signature="e#470#532#0" />
-                    <element signature="e#552#759#0" />
-                    <element signature="e#260#310#0" />
-                    <element signature="e#854#862#0" />
-                    <element signature="e#915#1004#0" />
-                    <element signature="e#1032#1121#0" />
-                    <element signature="e#1132#1140#0" />
-                    <element signature="e#1224#1232#0" />
-                    <element signature="e#1379#1387#0" />
-                    <element signature="e#1825#1833#0" />
-                    <element signature="e#1953#1961#0" />
-                    <element signature="e#2289#2341#0" />
-                    <element signature="e#2632#2809#0" />
-                    <element signature="e#2932#2940#0" />
-                    <element signature="e#2871#3044#0" />
-                    <element signature="e#3140#3316#0" />
-                    <element signature="e#3100#3108#0" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/main.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="816">
-                  <caret line="51" selection-start-line="51" selection-end-line="54" selection-end-column="30" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -112,8 +55,9 @@
         <option value="$PROJECT_DIR$/css/grid.css" />
         <option value="$PROJECT_DIR$/emmreHome.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/Index.html" />
         <option value="$PROJECT_DIR$/css/style1.css" />
+        <option value="$PROJECT_DIR$/Index.html" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -138,10 +82,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3017" />
-    <option name="y" value="61" />
-    <option name="width" value="1196" />
-    <option name="height" value="991" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -156,16 +100,6 @@
             <path>
               <item name="emmer homepage" type="b2602c69:ProjectViewProjectNode" />
               <item name="emmer homepage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="emmer homepage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="emmer homepage" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="emmer homepage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="emmer homepage" type="462c0819:PsiDirectoryNode" />
-              <item name="image" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,6 +125,8 @@
       <recent name="C:\Users\Adam\Desktop\emmer homepage\css" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Adam\Desktop\emmer homepage" />
+      <recent name="C:\Users\Adam\Desktop\emmer homepage\css" />
       <recent name="C:\Users\Adam\Desktop\emmer homepage\image" />
     </key>
   </component>
@@ -220,7 +156,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2952" y="1" width="1296" height="1000" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -230,9 +166,10 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16181229" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27588996" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32947975" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -243,7 +180,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,13 +222,6 @@
             <element signature="e#3140#3316#0" />
             <element signature="e#3100#3108#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="51" selection-start-line="51" selection-end-line="54" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -358,6 +287,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="360" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="51" selection-start-line="51" selection-end-line="54" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/emmreHome.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="695">
@@ -365,20 +315,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Index.html">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1280">
-          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="347" column="24" selection-start-line="347" selection-start-column="24" selection-end-line="347" selection-end-column="24" />
-          <caret line="350" column="21" selection-start-line="350" selection-start-column="21" selection-end-line="350" selection-end-column="21" />
-          <caret line="313" column="25" selection-start-line="313" selection-start-column="25" selection-end-line="313" selection-end-column="25" />
-          <caret line="309" column="23" selection-start-line="309" selection-start-column="23" selection-end-line="309" selection-end-column="23" />
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
